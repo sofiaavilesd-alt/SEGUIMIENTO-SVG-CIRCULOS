@@ -1,7 +1,6 @@
 defmodule Circulos do
   @moduledoc """
-  Genera un archivo SVG con círculos concéntricos usando recursividad.
-
+ 
   Uso:
     elixir circulos.exs                      -> pregunta los datos por teclado
     elixir circulos.exs 10 15                -> 10 círculos, reducción de 15
